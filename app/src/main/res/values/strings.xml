@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DesignbyXml</string>
+    <string name="forgot_your_login_details"> <u>Forgot your login details?</u> </string>
+    <string name="get_help_signing_in"><u>Get help signing in.</u> </string>
+    <string name="sign_up"><u>Sign Up.</u></string>
+    <string name="login_with_facebook">Login with facebook</string>
+
+</resources>
